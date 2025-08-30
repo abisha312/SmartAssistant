@@ -1,5 +1,7 @@
-flask
-flask-cors
-openai
-python-dotenv
+Flask==3.0.3
+Flask-Cors==4.0.1
+openai==0.28
+SpeechRecognition==3.10.0
+pyaudio==0.2.13
+gTTS==2.5.1
 gunicorn
